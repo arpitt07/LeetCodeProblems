@@ -17,7 +17,7 @@ class Solution:
 
 if __name__ == "__main__":
     d = Solution()
-    d.isPalindrome(x=123)
+    print(d.isPalindrome(123))
 
 #Given an integer x, return true if x is palindrome integer.
 
